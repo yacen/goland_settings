@@ -2,7 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="pristineConfig" value="false" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-3939853b:1690ec24d45:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
